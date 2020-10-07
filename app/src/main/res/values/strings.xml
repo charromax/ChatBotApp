@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatBotApp</string>
+    <string name="human_default_message">Hi! i\'m a human</string>
+    <string name="bot_default_message">You are a virus</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message...</string>
+</resources>
